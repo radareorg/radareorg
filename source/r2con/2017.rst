@@ -1,0 +1,248 @@
+:orphan:
+
+.. _r2con_2017:
+
+r2con 2017
+==========
+
+What
+----
+
+The first^W second official congress about :ref:`radare <index>`.
+
+Highlighting all aspects of radare2, this congress brings the oportunity to everyone to learn more about manual and automated reverse engineering, static and dynamic analysis, fuzzing, forensics, exploiting, unpacking, malware, ... this congress allows everyone to understand how to use r2 and how to extend it for your own purposes, it will also serve as an excuse for all developers to meet and discuss design and implementation tips for the future of the project.
+
+The congress will be composed by 2 days of trainings (english and spanish) and 2 days of single-track talks with parallel hackathon on open place to meet people.
+
+
+How
+---
+
+You can buy your tickets `here <http://events.eventzilla.net/e/r2con-2017-2138904925>`__.
+
+They do includes the following:
+
+- All trainings (days wed 6 and thu 7)
+- All talks (days fri 8 and sat 9)
+- Snacks during talks and dinner at `Mussol restaurant <http://www.mussolrestaurant.com/>`__
+  - Dinner included in price if you are a speaker
+  - Vegetarian option
+- Merchandising (until 2017-08-01)
+  - (tshirt, pin, stickers, bag)
+  - + extra stuff at a special price (camisetasfrikis)
+
+Call For Papers
+---------------
+
+The talks and trainings in r2con must involve r2 in some way or another, we are not imposing any strict topic, the August's 1st we will publish the schedule with all the accepted talks.
+
+You can send your talk proposals (45m of duration) to `r2con@radare.org <r2con@radare.org>`__
+
+Why
+---
+
+Because in 2016, the radare project turns 10 year old and the community and interest is big enough to fill a conference. And the project evolves pretty fast, so it makes sense to repeat the event in 2017 to celebrate the 11th anniversary.
+
+When
+----
+September 6, 7, 8, 9
+
+
+Where
+-----
+
+The event will happen in two places: 
+
+-  Wednesday and Thursday, the trainings are taking place at `UB, Gran Via de les Corts Catalanes, 585 <UB>`_.
+-  Friday and Saturday, the talks and the hackathon are taking place at `MediaPro building, Diagonal 177 <MP>`_.
+
+.. _UB: https://maps.google.com/maps?ll=41.386608,2.16402&z=16&t=m&hl=en-US&gl=ES&mapclient=embed&daddr=Universitat%20de%20Barcelona%20Gran%20Via%20de%20les%20Corts%20Catalanes%2C%20585%2008007%20Barcelona@41.386608,2.16402
+.. _MP: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2992.6117774218324!2d2.191723514264588!3d41.40423667926258!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12a4a3234bdba4ef%3A0xcde2c0c49e28d484!2sTallers+Area%2C+Avinguda+Diagonal%2C+177%2C+08018+Barcelona!5e0!3m2!1sen!2ses!4v1496070307182
+
+Who
+---
+Everyone: from hackers to developers, from users to companies, from curious to experts.
+
+Tickets bought before August 15th will be rewarded with some r2 merchandising. In addition you can save the shipping costs and get lowered prices at `Camisetas Frikis <http://camisetasfrikis.es/44-r2-con-2016>`__
+
+Please send more talks, the CFP is not closed yet, and there's no schedule defined atm.
+
+Trainings
+---------
+
+6th Wednesday Trainings at `UB`_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
++--------+------------------------+----------+--------------------+
+|        | 10h - 14h              | 14h - 15h|    15h - 19h       |
++========+========================+==========+====================+
+| room 0 | Beginner training      |          | Hackathon          |
+|        | (pancake and alvarofe) |          |                    |
++--------+------------------------+----------+--------------------+
+| room 1 |                        | Intro to Unpacking on Windows |
+|        |                        | newlog, Giomismo, zlowram)    |
++--------+------------------------+-------------------------------+
+
+7th Thursday Trainings at `UB`_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
++--------+------------------------+------------------+-----------------------------------+----------+------------------------------------------------------+
+|        | 10h - 11h              | 11h - 13h        |    13h - 14h                      | 14h - 15h| 15h - 19h                                            |
++========+========================+==================+===================================+==========+======================================================+
+| room 0 | Beginner training and hackaton            |                                   | Beginner training and hackaton                                  |
+|        | (pancake, alvarofe, jvoisin and xvilka)   |                                   | (pancake, alvarofe, jvoisin and xvilka)                         |
++--------+------------------------+------------------+-----------------------------------+----------+------------------------------------------------------+
+| room 1 |                        | Morning Tiny uControllers firmare RE and exploitation|          | Morning Tiny uControllers firmare RE and exploitation|
+|        |                        | (dark_k3y)                                           |          | (dark_k3y)                                           |
++--------+------------------------+------------------------------------------------------+----------+------------------------------------------------------+
+
+
+Schedule
+--------
+
+Friday
+^^^^^^
+
+- 10:00 10:30 - Welcome to r2con 2017 + competitions
+- 10:30 11:30 - r2frida (@mrmacete)
+- 11:30 12:00 - Hidden gems in r2land @trufae
+- 12:00 13:00 - SIOL - condret
+- **BREAK**
+- 15:00 16:00 - CFG-based fussy hash for malware classification using r2 (robin marsollier) (20m)
+- 16:00 17:00 - zdbg (@zutle)
+- 17:00 19:00 - GSoC talks (gdbserver, windows support and backstepping) @xvilka
+- 19:00 20:00 - r2con badge (@nighterman)
+
+Saturday
+^^^^^^^^
+
+- 10:00 10:25 - RAIR (@oddcoder) (30 min)
+- 10:25 11:00 - r2 module for Yara (@plutec_net + @mmorenog) (30 min)
+- 11:00 11:20 - Anal clemency (@raysong) (20 mins)
+- 11:30 12:00 - Limits of ESIL (@killabytenow)
+- 12:00 12:30 - MIPS tricks (Travis Goodspeed)
+- 12:30 13:30 - r2wars competition + prizes + Closing (@skuater + pancake)
+- **BREAK**
+- 15:00 16:00 - Diaphora and r2 (@pancake, @matalaz)
+- 16:00 17:00 - Road to the kernel (@nighterman)
+- 17:00 18:00 - Pimp my Triton (ak42)
+- 18:00 19:00 - Surprise talk by @oleavr 1h
+
+Talks
+-----
+
+Jaime Peñalba
+^^^^^^^^^^^^^
+
+(@nighterman, @jpenalbae)
+
+Road to the kernel
+""""""""""""""""""
+
+Altough r2 might not be the best tool to work with when dealing with the Linux kernel, a signifficant effort has been done since last year in order to add better support when delaling with kernels and some other low level stuff such as bootloaders or embedded systems. During the talk we will discuss about the multiple GSoC and RSoC projects making this possible, such as r2k and gdbserver, creating scripts to examine a live kernel or debug race conditions among other topics.
+
+R2con badge
+"""""""""""
+
+During the talk we will discuss about the creation processes of the badge, explaining how I went from being potato in electronics to manufacturing a badge. We will cover the hole processes: prototyping, design, debugging, assembly, problems encountered during the journey, tools required, etc...
+
+Abel Valero (@sanguinawer, @SkUaTeR) and Sergi Alvarez (pancake) @trufae, @trufae
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+r2wars
+""""""
+
+This talk will introduce the attendees to the r2wars game, which will be one of the competitions that will happen during the congress. The game consists in writing small programs in assembly code for x86, mips, arm and z80 to make them fight until death between them. The purpose of them would be to find the other player in memory to corrupt it and make it crash. The competition is an excuse for finding bugs in the assemblers, emulators and r2 itself, and have fun together :D
+
+Sergi Alvarez (pancake) @trufae, @trufae
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Hidden gems in r2land
+"""""""""""""""""""""
+
+It is known that r2 is capable for doing lot of things but most people ignore how to use those magic tricks, the talk will show several small tricks and features that are not widely known but very handy for many situations.
+
+Francesco Tamagni @bezjaje, @mrmacete
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+r2frida
+"""""""
+
+r2frida brings the superpowers of Frida's dynamic instrumentation into radare2 workflow. It lets you disassemble, search, trace execution, live patch, call functions and more on running apps in many different architectures. Let's take a quick tour of killer use cases and recent improvements with an eye to the future.
+
+Gerardo García @killabytenow
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Limits of ESIL
+""""""""""""""
+
+After developing the ESIL emulator for the AVR chipset family we decided to make a critical reflection about the limitations and lacks found during the developing of this emulator. The idea of this quick talk is to expose the current limitations of r2 when emulating real hardware, commenting the limitations we found, how we avoid them and what we think that should be improved in next versions of r2. We think that the firmware or software emulation under a reversing environment may be a great feature, specially when dealing with special hardware or microcontrollers. (15 min)
+
+Maite Moreno @mmorenog Antonio Sánchez @plutec_net
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+r2yara
+""""""
+
+The way to use the powerful information extracted from r2 to catch malware is creating a module for Yara, that's the point! With this talks we will try to explain all the features and receive feedback from the community to improve it.
+
+Ayman Khamouma @ak42, @dsknctr
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Pimp my Triton
+""""""""""""""
+
+Understanding the basics of Triton DBA framework, and how to use it in r2 in order to generate inputs which will lead to a specific behaviour.
+
+Eduardo Novella @enovella_ Dana Geist @handle
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+r2 the Rhme3!
+"""""""""""""
+
+The RHme (Riscure Hack me) is a low level hardware CTF that comes in the form of an Arduino board (AVR architecture). It involves a set of SW and HW challenges to test your skills in different areas such as side channel analysis, fault injection, reverse-engineering and software exploitation. In our talk we will briefly recap RHme2 and introduce the upcoming RHme3. This year we decided to create a special target called the Riscurino board which features CAN controllers for a real automotive hacking experience!
+During the r2con we challenge you to solve as many challenges as you can using radare2. Are you up to the task? By the time the r2con takes place the registration for RHme3 will be closed. However, we reserved 5 Riscurino boards for giving away during the conference. Be at r2con and win one of these boards by solving the qualification challenge(s) using radare2!
+
+Lars Haukli @zutle
+^^^^^^^^^^^^^^^^^^
+
+zdbg
+""""
+
+The zdbg plugin hotwires r2 to a virtual machine to turn it into a stealthy kernel-mode debugger. Our Windows 10 target does not even know it is being debugged. Not only are we enabling r2 to debug code running in the kernel, but also to work as a systemwide debugger to debug multiple user-mode processes simultaneously, including those nasties that debug themselves!
+
+condret @condret
+^^^^^^^^^^^^^^^^
+
+SIOL
+""""
+
+"New IO-api explained in the depth, and why we need it" or "How to simulate a 2 dimensional stack of paper sheets"
+
+Ahmed Abd El Mawgood @oddcoder
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+RAIR(RAdare In Rust)
+""""""""""""""""""""
+
+Rair is a project that is planned to be the future radare2 implementation but in rust. we will look into it's challenges that appeared during transition to rust, the project's current state, as well as advantages and disadvantages of moving to reimplmenting the project in rust.
+
+Maxou56800 @Maxou56800 RbN @rbnctl
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+cfg based fuzzy hash
+""""""""""""""""""""
+
+The original design was published for SSTIC by ANSSI (only in fr-FR), and named machoc. This talk is about a reimplementation using r2. The basic operation is to convert the CFG tree of a function to a string, by naming nodes and recording jumps and calls, to concatenate the strings of all functions and generate a murmurhash3 of the whole. This construction produces a hash resisting minor modifications of source code for the hashed sample. Moreover, comparison Ã -la ssdeep is possible.
+
+GSoC Students Antide Petit (@xarkes_)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+GSoC - students update
+""""""""""""""""""""""
+
+Updates from the students about their GSoC
+
+#. Windows Support - Antide Petit (xarkes)
+#. Reverse Debugging
+#. GDB Server

@@ -1,0 +1,95 @@
+:orphan: 
+
+.. _gsoc:
+
+Google Summer of Code
+=====================
+
+Introduction
+------------
+
+The radare project started in February of 2006 aiming to provide a free and
+simple command line interface for an hexadecimal editor supporting 64 bit
+offsets to make searches and recovering data from hard-disks. Since then, the
+project has grown with the aim changed to provide a complete framework for
+analyzing binaries with some basic \*NIX concepts in mind like everything is a
+file, small programs that interact together using stdin/out, and keep it
+simple.
+
+Radare2 is a complete `LGPL <https://opensource.org/licenses/lgpl-license>`__
+rewrite of the original project, to remove design issues of the first
+iteration, and to make it more modular and easier to script and maintain. It
+features a testsuite that aims to cover as much cases
+as possible in order to catch regressions.
+
+Radare2 is composed of an hexadecimal editor as central point, with several
+assemblers/disassemblers, code analysis capabilities, scripting features,
+visualization of code and data through graphs and other means, a visual mode,
+easy unix integration, a diff engine, a shellcode compiler, and much more.
+
+graph FIXME
+
+Previous Years
+--------------
+
+In Summer of 2014 and 2015, we hosted our own version of Radare Summer of Code (RSoC). These were some of the successful projects:
+
+- FLIRT and YARA signatures support for radare2
+- Loading PDB debug information
+- Structures support (like in 010 Editor)
+- ObjC metadata parsing from Mach-0 to expose classes and symbols More information can be found in `this RSoC blog post <http://radare.today/posts/the-rsoc-is-over/>`__.
+
+We were also accepted for Google Summer of Code (GSoC) 2015 under the umbrella of the `Openwall <http://www.openwall.com/>`__ project. Our students finished developing a major part of decompiler (radeco) with radare2 integration (except pseudo-C code emitter). More information is available in the project repository and GSoC’15 pages: project1, project2.
+
+After that, in 2016 (:ref:`ideas <gsoc_2016_ideas>` and :ref:`tasks <gsoc_2016_tasks>`) we finally were accepted as an organisation. And we got 3 students working on WebUI, radeco decompiler and improving function arguments detection.
+
+In 2017: :ref:`ideas <gsoc_2017_ideas>` and :ref:`tasks <gsoc_2017_tasks>`
+
+If you have questions or comments, please do `get in touch <community>`__.
+
+Mentors
+-------
+
+Members of radare2 core team have volunteered to guide students for GSoC’17. They were already guiding the students for GSoC'16, GSoC’15 (under Openwall umbrella), RSoC’15 and RSoC’14. Please feel free to reach out to any of them in case you need any help in selecting a project.
+
+- Sergi Alvarez IRC: pancake -- @trufae
+- Jeffrey Crowell IRC: crowell -- @jeffreycrowell
+- Anton Kochkov IRC: xvilka -- @akochkov
+- Julien Voisin IRC: jvoisin -- dustri.org
+- Alvaro Felipe Melchor: alvaro_fe - @alvaro_fe
+- Maxime Morin IRC: maijin - @Maijin212
+
+Development methodology
+-----------------------
+
+Currently, all repositories are hosted on `github <https://github.com/radare/>`)) and bugs are tracked on `github issues <https://github.com/radare/radare2/issues>`__. We are mostly using `HackMD <https://hackmd.io/>`__, `IRC <irc://irc.freenode.net/radare>`__ and Telegram for communication. We have a `testsuite <https://github.com/radare/radare2-regressions>`__ (that is running on `Travis CI <https://travis-ci.org/radare/radare2/>`__, `AppVeyor <https://ci.appveyor.com/project/radare/radare2>`__ and our `Jenkins instance <http://ci.rada.re/>`__) to test and verify that all the features are still working and that a merge or a commit don't break anything, and to find regressions. We encourage contributors to write test cases and documentation in order to verify the implementation and ensure that everything fits well together. There is also a Coverity instance to catch obvious defects. For the complex bugs and examples we're using our own asciinema installation
+License
+
+Radare2 is modular: this means that it aims to make all the elements and features easily reusable from other projects. The choice of LGPL3 as a license is the minimum requirement to get code merged in r2. Contributors can choose Apache, BSD, MIT, Public Domain, or other similar licenses. The reason to exclude GPL as a valid license for the project is because we aim to support proprietary software that uses r2, while protecting our free codebase.
+Instructions for students
+
+It is almost a requirement that students who want to apply to the radare2 project for the Google Summer of Code 2017 should submit a small pull request accomplishing one of the microtasks as part of their application. Though you can also choose any of the Github issues for radare2 if they are big enough to be a qualification task, still small enough to be finished no more than in a couple of weeks.
+
+Programming languages
+---------------------
+
+Most of radare2 is written in C and hence we expect students to be familiar with C programming language. Some of our tasks such as WebUI requires students to be learn latest web technologies such as HTML5 and Javascript. For the radeco task, student should know rust or be willing to learn the same.
+
+Recommended steps
+-----------------
+
+#. Read Google's instructions for participating
+#. Grab any of the project from list of ideas that you're interested in (or propose your own)
+#. Write a first draft proposal using Google Docs and our template and ask one of the mentors or administrators to review it with you
+#. Submit it using Google's web interface
+
+Student proposal guidelines
+---------------------------
+
+#. Keep it simple enough to fit not more than a couple of pages. Despite the shortness of the sentences, try to save the clarity of the proposal.
+#. Try to split GSoC period into tasks, and the task into subtasks. It really helps us to understand how you want to accomplish your goals, but even more it'll help you - to understand the task deep enough before starting it, and prioritize important things to do first.
+#. Please, note, how much time a day/week you are going to spend on this project.
+#. Specify your timezone, since so we can assign you a mentor in the same one, to ease communication.
+#. Submit your proposal early, not in the last minute
+#. You can also choose a “backup” idea (the second task you probably want to do), so that in case of some conflicts (two students for one task) it will be easier to solve.
+

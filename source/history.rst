@@ -1,0 +1,27 @@
+:orphan: 
+
+.. _history:
+
+History
+=======
+
+Radare was born in 2006 when pancake was working as a forensic analyst. He decided to write a simple hexadecimal editor with support for searching patterns and dumping the search results to disk to recover some PHP files deleted from an HFS partition.
+
+RA-DA-RE stands for RAw DAta REcovery.
+
+Radare was handy tool, and other features were added on top of the simple command line hexadecimal editor to support disassemblers, file format parsers, debuggers and more.
+
+The design of radare inspired by basic \*NIX concepts like 'protocols are in plain text', 'everything is a file', 'small programs that interact together using stdin/out' and 'keep it simple'. Most of the power of radare's commands comes from the ability to combine them with other commands by comunicating through pipes.
+
+In 2009, the first implementation of radare reached a point where evolving required a full redesign of the code base to properly support scripting language bindings.
+
+Radare2 began as a rewrite of the radare codebase following a modular design and licensed under LGPLv3. Radare2 was developed in parallel with radare, because despite the better design it took time to reach feature parity with radare.
+
+By 2014, radare2 had reached a state complete enough to fully replace radare1. Although there are still some features missing in the debugger, radare2 has matched or surpassed radare1 in nearly every way.
+
+Last year (in 2014), the project grew very quickly, (IRC had 40 users in January and 170 in December), the Radare Summer of Code (RSoC) brought new features, users, and developers. There were also many talks and trainings at international security conferences.
+
+Radare is moving from a personal project to a community project after 8 years of development. As the project grows, more time and effort is required for reviewing code contributions, implementing proper security development practices, writing a proper test suite, fuzzing different inputs (file formats, demanglers, disassemblers, command syntax, etc.), running with coverity, reviewing all compiler warnings, llvm-analyzer, valgrind, ASAN, and more to come!
+
+Even though the console interface is extremely powerful, one of the major requests for r2 has always been a proper GUI. Radare2 now has a web frontend which should feel familiar to users of commercial disassemblers. The r2pipe API can also be used from Python, NodeJS or Web Browsers, and offers a powerful interface to automatize tasks or interact with the radare2 core.
+
