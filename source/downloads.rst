@@ -10,3 +10,54 @@ We do recommend to install radare2 from git:
   git clone https://github.com/radare/radare2
   cd radare2
   sys/install.sh   # just run this script to update r2 from git
+
+
+You can also simply download binaries:
+
+.. _linux: https://github.com/radare/radare2
+.. _docker: https://hub.docker.com/r/radare/radare2/
+.. _android: https://play.google.com/store/apps/details?id=org.radare2.installer
+.. _win32: http://radare.mikelloc.com/get/2.2.0/radare2_installer-msvc_32-2.2.0.exe
+.. _win64: http://radare.mikelloc.com/get/2.2.0/radare2_installer-msvc_64-2.2.0.exe
+.. _osx: http://radare.mikelloc.com/get/2.2.0/radare2-2.2.0.pkg
+.. _ios: http://cydia.radare.org/
+
+
+.. |linux| image:: _static/icons/linux.png
+  :alt: linux download link
+  :scale: 25 %
+  :target: `linux`_
+
+.. |windows| image:: _static/icons/windows.png
+  :alt: windows download link
+  :scale: 25 %
+  :target: `win32`_
+
+.. |osx| image:: _static/icons/osx.png
+  :alt: osx download link
+  :scale: 25 %
+  :target: `osx`_
+
+.. |ios| image:: _static/icons/cydia.png
+  :alt: ios download link
+  :scale: 25 %
+  :target: `ios`_
+
+.. |android| image:: _static/icons/android.png
+  :alt: android download link
+  :scale: 25 %
+  :target: `android`_
+
+.. |docker| image:: _static/icons/docker.png
+  :alt: docker download link
+  :scale: 25 %
+  :target: `docker`_
+
++------------+---------------------+---------------+
+| | |linux|  | | |windows|         | | |osx|       |
+| | `linux`_ | | `win32`_/`win64`_ | | `osx`_      |
++------------+---------------------+---------------+
+| | |ios|    | | |android|         | | |docker|    |
+| | `ios`_   | | `android`_        | | `docker`_   |
++------------+---------------------+---------------+
+

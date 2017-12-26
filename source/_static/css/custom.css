@@ -1,3 +1,7 @@
 .rtd-pro.alabaster {
 	display: none;
 }
+
+table {
+	border: none;
+}
