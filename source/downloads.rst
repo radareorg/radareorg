@@ -25,39 +25,45 @@ You can also simply download binaries:
 
 .. |linux| image:: _static/icons/linux.png
   :alt: linux download link
-  :scale: 25 %
+  :scale: 30 %
   :target: `linux`_
+  :align: middle
 
 .. |windows| image:: _static/icons/windows.png
   :alt: windows download link
-  :scale: 25 %
+  :scale: 30 %
+  :align: middle
   :target: `win32`_
 
 .. |osx| image:: _static/icons/osx.png
   :alt: osx download link
-  :scale: 25 %
+  :scale: 30 %
+  :align: middle
   :target: `osx`_
 
 .. |ios| image:: _static/icons/cydia.png
   :alt: ios download link
-  :scale: 25 %
+  :scale: 30 %
+  :align: middle
   :target: `ios`_
 
 .. |android| image:: _static/icons/android.png
   :alt: android download link
-  :scale: 25 %
+  :scale: 30 %
+  :align: middle
   :target: `android`_
 
 .. |docker| image:: _static/icons/docker.png
   :alt: docker download link
-  :scale: 25 %
+  :scale: 30 %
+  :align: middle
   :target: `docker`_
 
-+------------+---------------------+---------------+
-| | |linux|  | | |windows|         | | |osx|       |
-| | `linux`_ | | `win32`_/`win64`_ | | `osx`_      |
-+------------+---------------------+---------------+
-| | |ios|    | | |android|         | | |docker|    |
-| | `ios`_   | | `android`_        | | `docker`_   |
-+------------+---------------------+---------------+
++---------------------+---------------------+---------------------+
+| | |linux|           | | |windows|         | | |osx|             |
+| | `linux`_          | | `win32`_/`win64`_ | | `osx`_            |
++---------------------+---------------------+---------------------+
+| | |ios|             | | |android|         | | |docker|          |
+| | `ios`_            | | `android`_        | | `docker`_         |
++---------------------+---------------------+---------------------+
 

@@ -2,6 +2,21 @@
 	display: none;
 }
 
-table {
+table.docutils td {
 	border: none;
+	box-shadow: none;
+}
+
+table.docutils {
+	border: none;
+	box-shadow: none;
+}
+
+.docutils {
+	border: none;
+	box-shadow: none;
+}
+
+a.reference {
+	border-bottom: 0;
 }
