@@ -11,6 +11,7 @@ Radare2
    community
    documentation
    talks
+   cutter
 
 Radare is a portable reversing framework that can:
 
