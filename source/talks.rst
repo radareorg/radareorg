@@ -39,16 +39,16 @@ This page aims at being an exhaustive archive of those materials.
 2014
 ----
 
-- PSES PDF VID (fr)
-- PHDays PDF
-- OWASP Houston PDF WWW WWW2
-- hack.lu PDF Materials
-- ZeroNights
+- `PSES <https://passageenseine.fr/Passage>`__ :download:`PDF <_files/pses2014_radare2.pdf>` `VID <https://www.youtube.com/watch?v=rrR2Bcyheu4>`__ / `VID <http://data.passageenseine.org/2014/PSES_2014_Voisin_Radare2.webm>`__ (fr)
+- `PHDays <http://2014.phdays.com/>`__ :download:`PDF <_files/radare2-phdays2014.pdf>`
+- `OWASP Houston <https://www.owasp.org/index.php/Houston>`__ :download:`PDF <_files/radare_java.pdf>` `WWW <http://dso.thecoverofnight.com/posts/2014/04/radare-java-intro/>`__ `WWW2 <http://dso.thecoverofnight.com/posts/2014/04/radare-java-artifact-enumeration/>`__
+- `hack.lu <http://2014.hack.lu/index.php/List#Radare2.2C_a_Concrete_Alternative_to_IDA_-_workshop>`__ PDF :download:`Materials <_files/hacklu2014_r2_exploitation.tar.xz>`
+- `ZeroNights <http://2014.zeronights.org/conference/workshops.html>`__
 
 2013
 ----
 
-- Rooted Labs 2013 PDF
+- `Rooted Labs 2013 <https://www.rootedcon.es/rootedlabs/>`__ :download:`PDF <_files/http://radare.org/y/t/rootedlabs2013/rootedlabs2013-radare.pdf>
 
 2011
 ----
