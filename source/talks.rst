@@ -48,7 +48,7 @@ This page aims at being an exhaustive archive of those materials.
 2013
 ----
 
-- `Rooted Labs 2013 <https://www.rootedcon.es/rootedlabs/>`__ :download:`PDF <_files/http://radare.org/y/t/rootedlabs2013/rootedlabs2013-radare.pdf>
+- `Rooted Labs 2013 <https://www.rootedcon.es/rootedlabs/>`__ :download:`PDF <_files/http://radare.org/y/t/rootedlabs2013/rootedlabs2013-radare.pdf>`
 
 2011
 ----
