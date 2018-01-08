@@ -10,17 +10,17 @@ This page aims at being an exhaustive archive of those materials.
 2017
 ----
 
-- SUE2017 re hytera md380 PDF TGZ VID
+- `SUE2017 <https://sue2017.snow.nl/>`__ re hytera md380 :download:`PDF <_files/r2snow.pdf>` :download:`TGZ <_files/r2snow.zip>` `VID <https://vimeo.com/211371081>`--.
 
 2016
 ----
 
-- RESSI - Pwning in 2016 avec radare2 ZIP (fr)
-- Practical RE and exploit for AVR PDF
-- Wa-r2-Con PDF
-- r2con2016 PDF VID
-- OverDriveCon PDF
-- 33C3 PDF VID TGZ
+- `RESSI <http://ressi2016.sciencesconf.org/>`__ - Pwning in 2016 avec radare2 :download:`ZIP <_files/jvoisin-pwning2016.pdf>` (fr)
+- Practical RE and exploit for AVR :download:`PDF <_files/avrworkshops2016.pdf>`
+- Wa-r2-Con :download:`PDF <_files/war2con2016.pdf>`
+- r2con2016 `PDF <https://github.com/radareorg/r2con>`__ `VID <https://www.youtube.com/watch?v=QVjrqlo5A9g&list=PLjIhlLNy_Y9O62rjwYD48pVER0EVh1-aU>`__
+- OverDriveCon :download:`PDF <_files/rwr2-overdrive-2016.pdf>`
+- 33C3 :download:`PDF <_files/33c3-r2demystified.pdf>` `VID <https://www.youtube.com/watch?v=afPZG6XC-KU>`__ :download:`TGZ <_files/radare2-demystified-demos.tar.gz>`
 
 2015
 ----
