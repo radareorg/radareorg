@@ -10,7 +10,7 @@ This page aims at being an exhaustive archive of those materials.
 2017
 ----
 
-- `SUE2017 <https://sue2017.snow.nl/>`__ re hytera md380 :download:`PDF <_files/r2snow.pdf>` :download:`TGZ <_files/r2snow.zip>` `VID <https://vimeo.com/211371081>`--.
+- `SUE2017 <https://sue2017.snow.nl/>`__ re hytera md380 :download:`PDF <_files/r2snow.pdf>` :download:`TGZ <_files/r2snow.zip>` `VID <https://vimeo.com/211371081>`__.
 
 2016
 ----
