@@ -53,10 +53,10 @@ This page aims at being an exhaustive archive of those materials.
 2011
 ----
 
-- Lacon - pancake PDF
-- OggCamp - Shellcode - vext01 PDF MP4
-- An Introduction To R2 - l0gic PDF
-- RootedCon 2011 - pancake, nibble PDF
+- Lacon - radare2 evolution :download:`PDF <_files/lacon2k11.pdf>`
+- OggCamp - Shellcode - vext01 :download:`PDF <_files/ogg2011.pdf>` `MP4 <http://blip.tv/file/get/Oggcamp-ReversingShell888.mp4>`__
+- An Introduction To R2 - l0gic :download:`PDF <_files/r2l0gic2011.pdf>`
+- `RootedCon 2011 <https://www.rootedcon.es/rooted-con-2011/>`__ - pancake, nibble :download:`PDF <_files/rooted2011.pdf>`
 
 2010
 ----
