@@ -25,16 +25,16 @@ This page aims at being an exhaustive archive of those materials.
 2015
 ----
 
-- NoConName Hack-a-ton PDF
-- Hack.lu PDF1 PDF2
-- NavajasNegras - r2pipe PDF
-- NavajasNegras - Baleful PPTX
-- NavajasNegras - Radare from A to Z PDF
-- Emulating Code at Lacon 2015 PDF
-- RECon 2015 PDF VID (en)
-- Nuit du hack 2015 PDF
-- Another radare2 introduction PDF
-- linux.au PDF VID (au)
+- `NoConName <http://www.noconname.org/>`__ Hack-a-ton :download:`PDF <_files/radare2-ncn2015-hack-a-ton.pdf>`
+- `Hack.lu <http://2015.hack.lu/>`__ :download:`PDF1 <_files/hacklu2015p1.pdf>` :download:`PDF2 <_files/hacklu2015p2.pdf>`
+- NavajasNegras - r2pipe :download:`PDF <_files/r2pipe-nn2015.pdf>`
+- NavajasNegras - Baleful :download:`PPTX <_files/baleful-nn2015.pptx>`
+- NavajasNegras - Radare from A to Z :download:`PDF <_files/RadareAZ-NN2015.pdf>`
+- Emulating Code at Lacon 2015 :download:`PDF <_files/lacon2k15-esil.pdf>`
+- `RECon <http://recon.cx/2015/schedule/events/49.html>`__ 2015 `PDF <_files/recon2015.pdf>`__ `VID <https://recon.cx/2015/recordings/recon2015-04-jeffrey-crowell-julien-voisin-Radare2-building-a-new-IDA.mp4>`__
+- `Nuit du hack <https://nuitduhack.com/en/workshops.html#radare2>`__ 2015 :download:`PDF <_files/ndh2015-maijin.pdf>`
+- Another radare2 introduction :download:`PDF <_files/condret-r2talk.pdf>`
+- `linux.au <https://linux.conf.au/>`__ :download:`PDF <_files/r2embed-auckland2015.pdf>`  `VID <https://www.youtube.com/watch?v=R3sGlzXfEkU>`__ (au)
 
 2014
 ----
