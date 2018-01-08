@@ -61,23 +61,23 @@ This page aims at being an exhaustive archive of those materials.
 2010
 ----
 
-- NcN PDF
-- Lacon PDF-nibble PDF-pancake demos
-- CampusParty YouTube
-- RootedCon PDF M4A TAR
+- NcN :download:`PDF <_files/ncn2010.pdf>`
+- Lacon :download:`PDF-nibble <_files/lacon2k10-nibble.pdf>` :download:`PDF-pancake <_files/lacon2k10-pancake.pdf>` :download:`demos <_files/lacon2k10-demos.tar.gz>`
+- CampusParty `YouTube <https://www.youtube.com/watch?v=w735mjzNVjI>`__
+- RootedCon :download:`PDF <_files/r2ted.pdf>` :download:`TGZ <_files/r2ted.tar.gz>`
 
 2009
 ----
 
-- Messing with R2 API HTML
-- Summercamp Garrotxa (SCG 2009) PDF
-- BS3C - practical uses cases PDF SRC
-- Generic Data Extraction and Injection - nibble PDF
-- Barcelona FiberParty PDF
+- Messing with R2 API `HTML <http://radare.org/get/lacon-radare-2009>`__
+- Summercamp Garrotxa (SCG 2009) :download:`TGZ <_files/summer.tar.gz>`
+- BS3C - practical uses cases :download:`PDF <_files/bs3c2k9.pdf>` :download:`SRC <_files/bs3c2k9-demos.tar.gz>`
+- Generic Data Extraction and Injection - nibble :download:`PDF <_files/bs3c-nibble.pdf>`
+- Barcelona FiberParty :download:`PDF <_files/rfib2k9.pdf>`
 
 2008
 ----
 
-- Radare 1.0 Release Party PDF MP3
-- Summercamp Garrotxa 2008 PDF
-- Lacon 2008 PDF
+- Radare 1.0 Release Party :download:`PDF <_files/rage1.pdf>` :download:`MP3 <_files/neuroflip-radare1.0-sidparty-20081108.mp3>`
+- Summercamp Garrotxa 2008 :download:`PDF <_files/radare-first.pdf>`
+- Lacon 2008 :download:`PDF <_files/radare-lacon-2008.pdf>`
