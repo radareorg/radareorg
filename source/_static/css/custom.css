@@ -24,3 +24,7 @@ table.docutils {
 a.reference {
 	border-bottom: 0;
 }
+
+.bodywrapper hr {
+	display: none;
+}
