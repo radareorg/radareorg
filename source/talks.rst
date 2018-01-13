@@ -11,6 +11,7 @@ This page aims at being an exhaustive archive of those materials.
 ----
 
 - `SUE2017 <https://sue2017.snow.nl/>`__ re hytera md380 :download:`PDF <_files/r2snow.pdf>` :download:`TGZ <_files/r2snow.zip>` `VID <https://vimeo.com/211371081>`__.
+- `Ruxcon 2017 <https://ruxcon.org.au>`__ :download:`PPTX <_files/Ruxcon2017_r2.pptx>`
 
 2016
 ----
