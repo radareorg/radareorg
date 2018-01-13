@@ -10,6 +10,7 @@ Radare2
    downloads
    community
    documentation
+   articles
    talks
    cutter
 
