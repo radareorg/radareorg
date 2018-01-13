@@ -16,6 +16,10 @@ Articles
 - `STEM CTF: Cyber Challenge 2017 Binary 150 Writeup <https://blog.manol.is/stem-ctf-cyber-challenge-2017-binary-150-writeup.html>`__
 - `Insomni’hack 2017: babyfirst <https://codisec.com/insomnihack-2017-babyfirst/>`__
 - `Unpacking Locky with Radare2 <https://blog.carlospacho.com/2017/10/11/unpacking-locky-with-radare2/>`__
+- `Reply to the PEDA vs r2 blogpost <https://medium.com/@trufae/reply-to-the-peda-vs-r2-blogpost-5d55d5ef875c>`__
+- `Flare-on 2015 - Level 2: very_success.exe <https://fevral.github.io/2017/08/13/flareon2015-2.html>`__
+- `Reversing EVM bytecode with radare2 <https://blog.positive.com/reversing-evm-bytecode-with-radare2-ab77247e5e53>`__
+- `[Reverse] TUCTF - Unknown <https://teamrocketist.github.io/2017/11/27/Reverse-TUCTF-Unknown/>`__
 
 2016
 ----
@@ -24,6 +28,7 @@ Articles
 - `How to radare2 a fake openssh exploit <https://dustri.org/b/how-to-radare2-a-fake-openssh-exploit.html>`__
 - `ReverUsing Radare2 <https://0x6d696368.blogspot.nl/2016/10/rever-using-radare2.html>`__
 - `Android malware analysis with Radare: Dissecting the Triada Trojan <https://www.nowsecure.com/blog/2016/11/21/android-malware-analysis-radare-triada-trojan/>`__
+- `TUM CTF 2016: zwiebel (rev 50) <https://losfuzzys.github.io/writeup/2016/10/03/tumctf-zwiebel50/>`__
 
 2015
 ----
@@ -34,6 +39,7 @@ Articles
 - `Pwning sushi from BSides Vancouver CTF with radare2 <https://dustri.org/b/pwning-sushi-from-bsides-vancouver-ctf-with-radare2.html>`__
 - `Exploiting ezhp (pwn200) from PlaidCTF 2014 with radare2 <https://dustri.org/b/exploiting-ezhp-pwn200-from-plaidctf-2014-with-radare2.html>`__
 - `Writing a Malware Config Parser Using Radare2 and Ruby <https://www.morphick.com/resources/news/writing-malware-config-parser-using-radare2-and-ruby>`__
+- `CMU Binary Bomb meets Symbolic Execution and Radare <http://ctfhacker.com/ctf/python/symbolic/execution/reverse/radare/2015/11/28/cmu-binary-bomb-flag2.html>`__
 
 2014
 ----
