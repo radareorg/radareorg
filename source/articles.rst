@@ -11,6 +11,11 @@ Articles
 - `GoogleCTF 2017: Inst Prof 152 (final value) <https://binarystud.io/googlectf-2017-inst-prof-152-final-value.html>`__
 - `ROPEmporium: Pivot 32-bit CTF Walkthrough With Radare2 <http://www.radiofreerobotron.net/blog/2017/11/23/ropemporium-pivot-ctf-walkthrough/>`__
 - `A journey into Radare 2 – Part 2: Exploitation <https://www.megabeets.net/a-journey-into-radare-2-part-2/>`__
+- `Solving 67k binaries with r2pipe <https://blog.techorganic.com/2017/03/20/solving-67k-binaries-with-r2pipe/>`__
+- `[rhme2 writeups] Jumpy <https://n0wblog.blogspot.nl/2017/03/rhme2-writeups-jumpy.html>`__
+- `STEM CTF: Cyber Challenge 2017 Binary 150 Writeup <https://blog.manol.is/stem-ctf-cyber-challenge-2017-binary-150-writeup.html>`__
+- `Insomni’hack 2017: babyfirst <https://codisec.com/insomnihack-2017-babyfirst/>`__
+- `Unpacking Locky with Radare2 <https://blog.carlospacho.com/2017/10/11/unpacking-locky-with-radare2/>`__
 
 2016
 ----
