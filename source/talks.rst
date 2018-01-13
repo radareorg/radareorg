@@ -22,6 +22,7 @@ This page aims at being an exhaustive archive of those materials.
 - r2con2016 `PDF <https://github.com/radareorg/r2con>`__ `VID <https://www.youtube.com/watch?v=QVjrqlo5A9g&list=PLjIhlLNy_Y9O62rjwYD48pVER0EVh1-aU>`__
 - OverDriveCon :download:`PDF <_files/rwr2-overdrive-2016.pdf>`
 - 33C3 :download:`PDF <_files/33c3-r2demystified.pdf>` `VID <https://www.youtube.com/watch?v=afPZG6XC-KU>`__ :download:`TGZ <_files/radare2-demystified-demos.tar.gz>`
+- Grehack 2016 :download:`TGZ <_files/grehack_2016.tar.xz>` `HTML <https://dustri.org/b/radare2-at-the-grehack-2016.html>`__
 
 2015
 ----
