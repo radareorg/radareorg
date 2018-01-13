@@ -37,12 +37,14 @@ articles, stories, examples and summaries about radare2. For example:
 Documentation
 -------------
 
-Like a lot of other free software projects, we think that the best way to understand
-what a program does is to read its `source code <https://github.com/radare/radare2/>`__.
-You can also check was `other people are doing <https://github.com/search?q=radare2>`__ with radare2,
-and what they are :ref:`talking about <talks>`.
-We generated automatic documentation for the `Vala bindings <http://radare.org/vdoc/>`__
-if you're interested in using them.
+Like a lot of other free software projects, we think that the best way to
+understand what a program does is to read its `source code
+<https://github.com/radare/radare2/>`__.  You can also check was `other people
+are doing <https://github.com/search?q=radare2>`__ with radare2, and what they
+are :ref:`talking about <talks>`, along with the :ref:`myriad of articles
+<articles>` floating on the internet.  We generated automatic documentation for
+the `Vala bindings <http://radare.org/vdoc/>`__ if you're interested in using
+them.
 
 Scripting
 ---------
