@@ -37,3 +37,11 @@ MMX/SSE emulation support
   :scale: 50 %
   :align: center
 
+ASCII-art graphs
+----------------
+
+.. image:: _static/screenshots/graph.png
+  :alt: screenshot of radare2
+  :scale: 100 %
+  :align: center
+
