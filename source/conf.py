@@ -27,7 +27,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'radare2'
-copyright = u'2017, pancake'
+copyright = u'2018, pancake'
 author = u'pancake'
 
 # The version info for the project you're documenting, acts as replacement for
