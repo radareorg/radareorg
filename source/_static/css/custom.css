@@ -28,3 +28,7 @@ a.reference {
 .bodywrapper hr {
 	display: none;
 }
+
+a {
+	color: #026D9B;
+}
