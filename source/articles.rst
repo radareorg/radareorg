@@ -20,6 +20,7 @@ Articles
 - `Flare-on 2015 - Level 2: very_success.exe <https://fevral.github.io/2017/08/13/flareon2015-2.html>`__
 - `Reversing EVM bytecode with radare2 <https://blog.positive.com/reversing-evm-bytecode-with-radare2-ab77247e5e53>`__
 - `[Reverse] TUCTF - Unknown <https://teamrocketist.github.io/2017/11/27/Reverse-TUCTF-Unknown/>`__
+- `Write-Up: m0rph from 34C3 CTF <https://www.sigflag.at/blog/2017/writeup-34c3ctf-m0rph/>`__
 
 2016
 ----
