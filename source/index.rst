@@ -7,15 +7,15 @@ Radare2
    :hidden:
    :maxdepth: 1
 
+   documentation
    downloads
    community
-   documentation
-   articles
-   talks
    donations
    scripting
+   articles
    cutter
    tools
+   talks
 
 Radare is a portable reversing framework that can:
 
