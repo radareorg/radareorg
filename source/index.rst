@@ -8,6 +8,7 @@ Radare2
    :maxdepth: 1
 
    documentation
+   screenshots
    downloads
    community
    donations
