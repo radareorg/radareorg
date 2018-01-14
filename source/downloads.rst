@@ -11,6 +11,7 @@ We do recommend to install radare2 from git:
   cd radare2
   sys/install.sh   # just run this script to update r2 from git
 
+If you prefer to build releases from source, you can get them all `here <https://github.com/radare/radare2/releases>`__.
 
 You can also simply download binaries:
 
