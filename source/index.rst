@@ -31,6 +31,23 @@ Radare is a portable reversing framework that can:
 - Use powerful analysis capabilities to speed up reversing
 - Aid in software exploitation
 
+.. |writeasm| image:: _static/screenshots/writeasm.png
+  :alt: screenshot of radare2
+  :target: _static/screenshots/writeasm.png
+
+.. |typical| image:: _static/screenshots/typical.jpg
+  :alt: emulation of mmx/sse
+  :target: _static/screenshots/typical.png
+
+.. |cutter| image:: _static/cutter.png
+  :alt: cutter screenshot
+  :target: _static/cutter.png
+
++---------------------+---------------------+---------------------+
+| | |writeasm|        | | |typical|         | | |cutter|          |
++---------------------+---------------------+---------------------+
+
+
 You can start by reading its :ref:`documentation <documentation>`,
 :ref:`check the community <community>`,
 see how it :ref:`compares to others <comparison>`,
