@@ -11,6 +11,15 @@ Self-documentation
   :scale: 100 %
   :align: center
 
+Typical usage
+-------------
+
+.. image:: _static/screenshots/typical.jpg
+  :alt: typical usage of radare2
+  :scale: 50 %
+  :align: center
+
+
 Interactive assembler
 ---------------------
 
@@ -25,6 +34,6 @@ MMX/SSE emulation support
 
 .. image:: _static/screenshots/esil_mmx.jpg
   :alt: emulation of mmx/sse
-  :scale: 100 %
+  :scale: 50 %
   :align: center
 
