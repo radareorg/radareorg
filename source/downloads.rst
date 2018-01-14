@@ -23,6 +23,7 @@ You can also simply download binaries:
 .. _osx: http://radare.mikelloc.com/get/2.2.0/radare2-2.2.0.pkg
 .. _ios: http://cydia.radare.org/
 .. _cutter: https://github.com/radareorg/cutter/releases
+.. _archives: https://radare.mikelloc.com/get/
 
 
 .. |linux| image:: _static/icons/linux.png
@@ -63,9 +64,16 @@ You can also simply download binaries:
 
 .. |cutter| image:: _static/icons/cutter.jpg
   :alt: cutter download link
-  :scale: 25 %
+  :scale: 30 %
   :align: middle
   :target: `cutter`_
+
+.. |archives| image:: _static/icons/archives.png
+  :alt: archives download link
+  :scale: 30 %
+  :align: middle
+  :target: `archives`_
+
 
 +---------------------+---------------------+---------------------+
 | | |linux|           | | |windows|         | | |osx|             |
@@ -74,7 +82,7 @@ You can also simply download binaries:
 | | |ios|             | | |android|         | | |docker|          |
 | | `ios`_            | | `android`_        | | `docker`_         |
 +---------------------+---------------------+---------------------+
-| |                   | | |cutter|          | |                   |
-| |                   | | `cutter`_         | |                   |
+| | |archives|        | | |cutter|          | |                   |
+| | `archives`_       | | `cutter`_         | |                   |
 +---------------------+---------------------+---------------------+
 
