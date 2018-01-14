@@ -14,6 +14,7 @@ Radare2
    talks
    donations
    cutter
+   tools
 
 Radare is a portable reversing framework that can:
 
