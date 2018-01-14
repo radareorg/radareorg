@@ -34,7 +34,7 @@ articles, stories, examples and summaries about radare2. For example:
 - Display `types <http://radare.today/types/>`__ and format data with pf
 - `Carving binaries <http://radare.today/carving-bins/>`__
 
-Documentation
+Contributions
 -------------
 
 Like a lot of other free software projects, we think that the best way to
