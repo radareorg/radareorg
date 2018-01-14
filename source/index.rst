@@ -32,5 +32,7 @@ Radare is a portable reversing framework that can:
 - Aid in software exploitation
 
 You can start by reading its :ref:`documentation <documentation>`,
-see how it :ref:`compares to others <comparison>`
-or by :ref:`getting in touch with the community <community>`.
+:ref:`check the community <community>`,
+see how it :ref:`compares to others <comparison>`,
+get some :ref:`swag <donations>` and of course,
+:ref:`download it <downloads>`.
