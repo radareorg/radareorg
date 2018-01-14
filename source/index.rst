@@ -13,6 +13,7 @@ Radare2
    articles
    talks
    donations
+   scripting
    cutter
    tools
 

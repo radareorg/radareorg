@@ -45,22 +45,3 @@ are :ref:`talking about <talks>`, along with the :ref:`myriad of articles
 <articles>` floating on the internet.  We generated automatic documentation for
 the `Vala bindings <http://radare.org/vdoc/>`__ if you're interested in using
 them.
-
-Scripting
----------
-
-Radare2 comes with a powerful API: we used ot have classic bindings, but it
-required people to learn how to use radare2 twice: one for the command line,
-and a second time for the bindings. So we deprecated the bindings,
-and created `r2pipe <https://github.com/radare/radare2-r2pipe>`__.
-
-It's a magical pipe where you throw radare2 commands at,
-and it'll answer you their results. We wrote a `tutorial <http://radare.today/posts/javascript-in-r2/>`__
-about how to use them from Nodejs and Javascript. But don't worry,
-r2pipe is usable from a **large** number of languages: 
-`python <https://github.com/radare/radare2-bindings/tree/master/python>`__,
-`go <https://github.com/radare/radare2-bindings/tree/master/go>`__,
-`php <https://github.com/radare/radare2-bindings/tree/master/php5>`__,
-`ocaml <https://github.com/radare/radare2-bindings/tree/master/ocaml>`__,
-`ruby <https://github.com/radare/radare2-bindings/tree/master/ruby>`__,
-`awk <https://github.com/radare/radare2-bindings/tree/master/awk>`__, …
