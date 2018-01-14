@@ -27,3 +27,14 @@ To use it, you can either specify a pid, a process name, or a binary:
   $ r2 frida://"/bin/ls -al"
 
 This will make radare2 use frida as a backend.
+
+r2 webui
+--------
+
+Radare2 comes with a web interface, that can be launched via ``r2 -c=H /bin/ls``,
+and it looks like this:
+
+.. image:: _static/webui.png
+  :alt: webui screenshot
+  :scale: 75 %
+  :align: center
