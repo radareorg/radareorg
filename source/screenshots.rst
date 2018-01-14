@@ -18,3 +18,13 @@ Interactive assembler
   :alt: radare2 interactive assembler
   :scale: 100 %
   :align: center
+
+
+MMX/SSE emulation support
+-------------------------
+
+.. image:: _static/screenshots/esil_mmx.jpg
+  :alt: emulation of mmx/sse
+  :scale: 100 %
+  :align: center
+
