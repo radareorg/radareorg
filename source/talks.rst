@@ -7,14 +7,22 @@ Over the year, a lot of people gave numerous talks about radare2, how to use it,
 how to contribute to it, writing plugins, modules, bindings, …
 This page aims at being an exhaustive archive of those materials.
 
+There is an anuel event around radare2, called the :ref:`r2con <r2con>`
+make sure to check it out and to watch the archived talks!
+
+
 2017
 ----
+
+- :ref:`r2con 2017 <r2con_2017>`
 
 - `SUE2017 <https://sue2017.snow.nl/>`__ re hytera md380 :download:`PDF <_files/r2snow.pdf>` :download:`TGZ <_files/r2snow.zip>` `VID <https://vimeo.com/211371081>`__.
 - `Ruxcon 2017 <https://ruxcon.org.au>`__ :download:`PPTX <_files/Ruxcon2017_r2.pptx>`
 
 2016
 ----
+
+- :ref:`r2con 2016 <r2con_2016>`
 
 - `RESSI <http://ressi2016.sciencesconf.org/>`__ - Pwning in 2016 avec radare2 :download:`ZIP <_files/jvoisin-pwning2016.pdf>` (fr)
 - Practical RE and exploit for AVR :download:`PDF <_files/avrworkshops2016.pdf>`
