@@ -38,3 +38,44 @@ and it looks like this:
   :alt: webui screenshot
   :scale: 75 %
   :align: center
+
+jupyter-radare2
+---------------
+
+A simple radare2 `Jupyter <https://jupyter.org/>`__ kernel,
+by `guedou <https://twitter.com/guedou>`__, that can be used to make
+interactive radare2 tutorials, or take advanced notes.
+You can get it `here <https://github.com/guedou/jupyter-radare2>`__.
+
+::
+
+  $ jupyter console --kernel radare2
+  Jupyter console 5.2.0
+
+  In [1]: o /bin/ls
+  9
+  In [2]: afl
+
+  In [3]: afl~main
+
+  In [4]: pd 5
+  ;-- entry0:
+    0x00005430      31ed           xor ebp, ebp
+    0x00005432      4989d1         mov r9, rdx
+    0x00005435      5e             pop rsi
+    0x00005436      4889e2         mov rdx, rsp
+    0x00005439      4883e4f0       and rsp, 0xfffffffffffffff0
+  In [5]:                                                                                                                                               
+  Do you really want to exit ([y]/n)? y
+  Shutting down kernel
+
+
+It looks like this:
+
+.. image:: _static/jupyter_radare2.png
+  :alt: jupyter notebook for radare2
+  :scale: 30 %
+  :align: center
+  :target: https://github.com/guedou/jupyter-radare2
+
+
