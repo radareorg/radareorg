@@ -35,7 +35,7 @@ Radare is a portable reversing framework that can:
 
 .. |typical| image:: _static/screenshots/typical.jpg
   :alt: emulation of mmx/sse
-  :target: _images/typical.png
+  :target: _images/typical.jpg
 
 .. |cutter| image:: _static/cutter.png
   :alt: cutter screenshot
