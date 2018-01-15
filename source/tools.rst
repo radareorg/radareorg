@@ -39,6 +39,8 @@ and it looks like this:
   :scale: 75 %
   :align: center
 
+If you're too lazy to install it, you can give it a try `here <http://cloud.radare.org/beta/>`__.
+
 jupyter-radare2
 ---------------
 
