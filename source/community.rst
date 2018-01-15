@@ -22,5 +22,8 @@ we're all going to the `r2con <http://radare.org/con/>`__,
 a small congress held in Barcelona, with workshops, trainings and :ref:`talks <talks>`,
 all about radare2. You're of course more than welcome here.
 
+If you, your ctf team, your company, or even your dog is using radare2,
+we would be happy yo add you to our `list of users <http://radare.today/posts/who-uses-r2/>`__.
+
 - :ref:`r2con 2016 <r2con_2016>`
 - :ref:`r2con 2017 <r2con_2017>`

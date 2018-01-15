@@ -44,4 +44,4 @@ are doing <https://github.com/search?q=radare2>`__ with radare2, and what they
 are :ref:`talking about <talks>`, along with the :ref:`myriad of articles
 <articles>` floating on the internet.  We generated automatic documentation for
 the `Vala bindings <http://radare.org/vdoc/>`__ if you're interested in using
-them.
+them. 
