@@ -7,4 +7,5 @@
 .. _ios: http://cydia.radare.org/
 .. _cutter: https://github.com/radareorg/cutter/releases
 .. _archives: https://radare.mikelloc.com/get/
+.. _nightly: http://bin.rada.re/
 
