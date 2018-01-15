@@ -10,6 +10,8 @@ Articles
 - `Defeating IOLI with radare2 in 2017 <https://dustri.org/b/defeating-ioli-with-radare2-in-2017.html>`__
 - `GoogleCTF 2017: Inst Prof 152 (final value) <https://binarystud.io/googlectf-2017-inst-prof-152-final-value.html>`__
 - `ROPEmporium: Pivot 32-bit CTF Walkthrough With Radare2 <http://www.radiofreerobotron.net/blog/2017/11/23/ropemporium-pivot-ctf-walkthrough/>`__
+- `ROPEmporium: Pivot 64-bit CTF Walkthrough With Radare2
+ <http://radiofreerobotron.net/blog/2017/12/04/ropemporium-pivot-ctf-walkthrough2/>`__
 - `A journey into Radare 2 – Part 2: Exploitation <https://www.megabeets.net/a-journey-into-radare-2-part-2/>`__
 - `Solving 67k binaries with r2pipe <https://blog.techorganic.com/2017/03/20/solving-67k-binaries-with-r2pipe/>`__
 - `[rhme2 writeups] Jumpy <https://n0wblog.blogspot.nl/2017/03/rhme2-writeups-jumpy.html>`__
@@ -21,6 +23,8 @@ Articles
 - `Reversing EVM bytecode with radare2 <https://blog.positive.com/reversing-evm-bytecode-with-radare2-ab77247e5e53>`__
 - `[Reverse] TUCTF - Unknown <https://teamrocketist.github.io/2017/11/27/Reverse-TUCTF-Unknown/>`__
 - `Write-Up: m0rph from 34C3 CTF <https://www.sigflag.at/blog/2017/writeup-34c3ctf-m0rph/>`__
+- `AlexCTF : Catalyst System WriteUp <http://byte-off.com/ctf/alexctf-catalyst-system-writeup/>`__
+- `[BackdoorCTF 2017] BABY-0x41414141 Write-up (Pwn150) <https://www.pwndiary.com/write-ups/backdoorctf-2017-baby-0x41414141-write-up-pwn150/>`__
 
 2016
 ----
