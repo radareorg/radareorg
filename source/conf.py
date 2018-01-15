@@ -90,7 +90,7 @@ html_theme_options = {
         'github_button': False,
         'github_user': 'radare',
         'github_repo': 'radare2',
-        'travis_button': True
+        'travis_button': False  # overriden in badge.html
 }
 
 sidebar_collapse = True
@@ -100,6 +100,7 @@ html_sidebars = {
         'searchbox.html',
         'navigation.html',
         'relations.html',
+        'badge.html',
         'donate.html',
     ]
 }
