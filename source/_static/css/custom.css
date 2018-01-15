@@ -11,6 +11,16 @@ table.docutils td {
 	box-shadow: none;
 }
 
+table.docutils tr {
+	border: none;
+	box-shadow: none;
+}
+
+table.docutils th {
+	border: none;
+	box-shadow: none;
+}
+
 table.docutils {
 	border: none;
 	box-shadow: none;
