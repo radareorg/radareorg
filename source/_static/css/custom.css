@@ -40,3 +40,8 @@ a {
 .sphinxsidebarwrapper h3 {
 	display: none;
 }
+
+a .download .pre {
+	color: #33A2FF;
+	font-weight: normal;
+}
