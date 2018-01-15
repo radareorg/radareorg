@@ -16,7 +16,7 @@ Radare2
    cutter
    tools
 
-Radare is a portable reversing framework that can:
+Radare is a `LGPL <https://www.gnu.org/copyleft/lesser.html>`__ portable reversing framework that can:
 
 - Disassemble (and assemble for) many different architectures
 - Debug with local native and remote debuggers (gdb, rap, webui, r2pipe, winedbg, windbg)
