@@ -33,15 +33,15 @@ Radare is a portable reversing framework that can:
 
 .. |writeasm| image:: _static/screenshots/writeasm.png
   :alt: screenshot of radare2
-  :target: _static/screenshots/writeasm.png
+  :target: _images/writeasm.png
 
 .. |typical| image:: _static/screenshots/typical.jpg
   :alt: emulation of mmx/sse
-  :target: _static/screenshots/typical.png
+  :target: _images/typical.png
 
 .. |cutter| image:: _static/cutter.png
   :alt: cutter screenshot
-  :target: _static/cutter.png
+  :target: _images/cutter.png
 
 +---------------------+---------------------+---------------------+
 | | |writeasm|        | | |typical|         | | |cutter|          |
