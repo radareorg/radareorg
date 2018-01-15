@@ -13,10 +13,8 @@ Radare2
    community
    donations
    scripting
-   articles
    cutter
    tools
-   talks
 
 Radare is a portable reversing framework that can:
 
