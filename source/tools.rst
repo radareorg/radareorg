@@ -104,11 +104,11 @@ valabind
 
 It's used to generate the (now deprecated) bindings for radare2.
 
-radare2-extra
+radare2-extras
 -------------
 
-`radare2-extra <https://github.com/radare/radare2-extras>`__ contains extra plugins
-for radare2. They aren't included in the core for various possible reasons:
+`radare2-extras <https://github.com/radare/radare2-extras>`__ contains additional plugins
+for radare2. They aren't included in the core for various reasons:
 dependency on external libraries, marginal/specific usecase, duplicate features, …
 
 The recommended way to build/install/toy with/… those plugins is to use :ref:`r2pm <r2pm>`.
