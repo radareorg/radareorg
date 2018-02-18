@@ -8,6 +8,7 @@ Articles
 2017
 ----
 
+- `DEFCON 2017: Magic <https://bannsecurity.com/index.php/home/10-ctf-writeups/42-defcon-2017-magic>`__
 - `Solving game2 from the badge of Black Alps 2017 with radare2 <https://dustri.org/b/solving-game2-from-the-badge-of-black-alps-2017-with-radare2.html>`__
 - `Defeating IOLI with radare2 in 2017 <https://dustri.org/b/defeating-ioli-with-radare2-in-2017.html>`__
 - `GoogleCTF 2017: Inst Prof 152 (final value) <https://binarystud.io/googlectf-2017-inst-prof-152-final-value.html>`__
