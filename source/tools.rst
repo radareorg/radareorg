@@ -105,7 +105,7 @@ valabind
 It's used to generate the (now deprecated) bindings for radare2.
 
 radare2-extras
--------------
+--------------
 
 `radare2-extras <https://github.com/radare/radare2-extras>`__ contains additional plugins
 for radare2. They aren't included in the core for various reasons:
