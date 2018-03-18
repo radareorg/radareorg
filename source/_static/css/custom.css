@@ -9,6 +9,8 @@
 .ethical-sidebar {
 	display: none;
 	visibility: hidden;
+	height: 0;
+	width: 0;
 }
 
 table.docutils td {
