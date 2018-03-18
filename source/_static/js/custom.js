@@ -29,6 +29,7 @@
 window.ondocumentready(function() {
     var a = document.getElementsByClassName("menu-link")[0];
     if (window.ismobile()) {
+        a.style.display = 'block';
         a.magic = false;
         a.onclick = function() {
             this.magic = !this.magic;
@@ -53,7 +54,5 @@ window.ondocumentready(function() {
                 break;
             }
         }
-    } else {
-        a.style.display = 'none';
     }
 });

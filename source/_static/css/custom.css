@@ -89,4 +89,5 @@ img.travis {
 a.menu-link {
 	font-size: 25px;
 	border: none !important;
+	display: none;
 }
