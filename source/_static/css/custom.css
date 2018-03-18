@@ -6,6 +6,10 @@
 	display: none;
 }
 
+.ethical-sidebar {
+	display: none;
+}
+
 table.docutils td {
 	border: none;
 	box-shadow: none;
