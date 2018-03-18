@@ -71,3 +71,9 @@ div.sphinxsidebar #searchbox input[type="text"] {
 div.sphinxsidebar .search > div {
     display: table-cell;
 }
+
+img {
+    width: 100%;
+    height: auto !important;
+}
+
