@@ -82,3 +82,6 @@ img {
     height: auto !important;
 }
 
+img .travis {
+    width: 90px;
+}
