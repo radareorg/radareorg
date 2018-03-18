@@ -97,6 +97,7 @@ sidebar_collapse = True
 html_sidebars = {
     '**': [
         'about.html',
+        'toc.html',
         'searchbox.html',
         'navigation.html',
         'relations.html',
@@ -158,3 +159,4 @@ texinfo_documents = [
 
 def setup(app):
     app.add_stylesheet('css/custom.css')
+    app.add_javascript("js/custom.js")

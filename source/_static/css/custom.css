@@ -85,3 +85,9 @@ img {
 img.travis {
     width: 90px;
 }
+
+a.menu-link {
+	font-size: 25px;
+	border: none !important;
+	display: none;
+}
