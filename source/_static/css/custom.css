@@ -55,3 +55,19 @@ a .download .pre {
 	color: #33A2FF;
 	font-weight: normal;
 }
+
+
+/* Taken from https://github.com/bitprophet/alabaster/pull/114/files*/
+
+div.sphinxsidebar {
+    max-height: 100%;
+    overflow-y: auto;
+}
+
+div.sphinxsidebar #searchbox input[type="text"] {
+    width: 160px;
+}
+
+div.sphinxsidebar .search > div {
+    display: table-cell;
+}
