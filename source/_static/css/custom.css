@@ -8,6 +8,7 @@
 
 .ethical-sidebar {
 	display: none;
+	visibility: hidden;
 }
 
 table.docutils td {
