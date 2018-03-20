@@ -20,6 +20,13 @@
 	width: 0;
 }
 
+.ethical-alabaster {
+	display: none;
+	visibility: hidden;
+	height: 0;
+	width: 0;
+}
+
 
 
 table.docutils td {
