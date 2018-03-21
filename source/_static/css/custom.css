@@ -27,8 +27,6 @@
 	width: 0;
 }
 
-
-
 table.docutils td {
 	border: none;
 	box-shadow: none;
@@ -147,6 +145,23 @@ div.documentwrapper {
 	margin: 0;
 	padding: 20px 30px;
 	width: auto;
+}
+
+div.sphinxsidebar #searchbox input[type="text"] {
+    width: 80%;
+}
+
+div.sphinxsidebar p {
+	margin: 0;
+	padding: 5px 0 0 0;
+}
+
+div.sphinxsidebar #searchbox {
+    min-height: 30px;
+}
+
+div.sphinxsidebar #searchbox input[type="text"] {
+	width: 80%;
 }
 
 }
