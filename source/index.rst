@@ -19,7 +19,7 @@ Radare2
 Radare is a `LGPL <https://www.gnu.org/copyleft/lesser.html>`__ portable reversing framework that can:
 
 - Disassemble (and assemble for) many different architectures
-- Debug with local native and remote debuggers (gdb, rap, webui, r2pipe, winedbg, windbg)
+- Debug natively or use remote targets (gdb, r2pipe, winedbg, windbg)
 - Run on Linux, \*BSD, Windows, OSX, Android, iOS, Solaris and Haiku
 - Perform forensics on filesystems and data carving
 - Be scripted in Python, Javascript, Go and more
