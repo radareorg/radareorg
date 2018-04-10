@@ -5,6 +5,11 @@
 Articles
 ========
 
+2018
+----
+
+- `Gynvael - Mission 22 - Solution <https://ctfs.ghost.io/gynvael-mission-22-solution/>`__
+
 2017
 ----
 
