@@ -12,6 +12,11 @@ This page aims at being an exhaustive archive of those materials.
 There is an anuel event around radare2, called the :ref:`r2con <r2con>`
 make sure to check it out and to watch the archived talks!
 
+2018
+----
+
+- `<http://overdriveconference.com/>`__ - Reversing with R2 - :download:`PDF <_files/ReversingWithR2.pdf>`.
+
 
 2017
 ----
