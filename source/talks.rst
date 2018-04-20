@@ -15,7 +15,7 @@ make sure to check it out and to watch the archived talks!
 2018
 ----
 
-- `<http://overdriveconference.com/>`__ - Reversing with R2 - :download:`PDF <_files/ReversingWithR2.pdf>`.
+- `Overdrive hacking conference <http://overdriveconference.com/>`__ - Reversing with R2 - :download:`PDF <_files/ReversingWithR2.pdf>`.
 
 
 2017
