@@ -9,6 +9,9 @@ Articles
 ----
 
 - `Gynvael - Mission 22 - Solution <https://ctfs.ghost.io/gynvael-mission-22-solution/>`__
+- `ERNW Insinuator - Reverse Engineering with radare2 - intro <https://insinuator.net/2016/08/reverse-engineering-with-radare2-intro/>`__
+- `ERNW Insinuator - Reverse Engineering with radare2 - part2 <https://insinuator.net/2016/08/reverse-engineering-with-radare2-part-2/>`__
+- `ERNW Insinuator - Reverse Engineering with radare2 - part3 <https://insinuator.net/2016/10/reverse-engineering-with-radare2-part-3/>`__
 
 2017
 ----
