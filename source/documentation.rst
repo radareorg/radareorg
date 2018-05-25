@@ -10,10 +10,10 @@ various forms.
 The book
 --------
 
-We wrote a book about radare2, ranging from basic usage to advanced wizzardry,
-so you can slap it on your reader, and enjoy it offline. If you spots some
+We wrote a book about radare2, ranging from basic usage to advanced wizardry,
+so you can slap it on your reader and enjoy it offline. If you spot some
 mistakes, or want to help us to improve it, please do feel free to check the
-`github repository <https://github.com/radare/radare2book>`__
+`GitHub repository <https://github.com/radare/radare2book>`__
 
 - The original (and now heavily outdated) radare1 edition,
   in `PDF <http://radare.org/get/radare.pdf>`__ and `HTML <http://radare.org/r/docs.html>`__,
@@ -39,7 +39,7 @@ Contributions
 
 Like a lot of other free software projects, we think that the best way to
 understand what a program does is to read its `source code
-<https://github.com/radare/radare2/>`__.  You can also check was `other people
+<https://github.com/radare/radare2/>`__.  You can also check out what `other people
 are doing <https://github.com/search?q=radare2>`__ with radare2, and what they
 are :ref:`talking about <talks>`, along with the :ref:`myriad of articles
 <articles>` floating on the internet.  We generated automatic documentation for
