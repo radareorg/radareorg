@@ -31,7 +31,7 @@ This will make radare2 use frida as a backend.
 r2 webui
 --------
 
-Radare2 comes with a web interface, that can be launched via ``r2 -c=H /bin/ls``,
+Radare2 comes with a web interface, which can be launched via ``r2 -c=H /bin/ls``,
 and it looks like this:
 
 .. image:: _static/webui.png
@@ -84,7 +84,7 @@ It looks like this:
 acr
 ---
 
-`acr <https://github.com/radare/acr>`__ stand for *AutoConf Replacement*. It's
+`acr <https://github.com/radare/acr>`__ stands for *AutoConf Replacement*. It's
 a GPLv2 replacement for `autoconf
 <https://www.gnu.org/software/autoconf/autoconf.html>`__, based on shell
 scripts instead of M4 macros, making it simpler, faster, and easier to use.  It
