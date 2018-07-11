@@ -108,6 +108,10 @@ a.menu-link {
 	display: none;
 }
 
+/* Don't put an underline on images */
+div.line > a.reference:hover {
+  border-bottom: none;
+}
 
 /* Mobile Only */
 @media screen and (max-width: 875px) {
