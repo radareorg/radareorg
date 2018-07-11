@@ -14,6 +14,7 @@ Radare2
    merchandise
    scripting
    cutter
+   talks
    tools
 
 Radare is a `LGPL <https://www.gnu.org/copyleft/lesser.html>`__ portable reversing framework that can:
