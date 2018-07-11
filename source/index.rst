@@ -14,6 +14,7 @@ Radare2
    merchandise
    scripting
    cutter
+   r2con/index
    talks
    tools
 
