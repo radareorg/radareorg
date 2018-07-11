@@ -11,7 +11,7 @@ Radare2
    screenshots
    downloads
    community
-   donations
+   merchandise
    scripting
    cutter
    tools
@@ -49,5 +49,5 @@ Radare is a `LGPL <https://www.gnu.org/copyleft/lesser.html>`__ portable reversi
 You can start by reading its :ref:`documentation <documentation>`,
 :ref:`check the community <community>`,
 see how it :ref:`compares to others <comparison>`,
-get some :ref:`swag <donations>` and of course,
+get some :ref:`swag <merchandise>` and of course,
 :ref:`download it <downloads>`.

@@ -1,7 +1,7 @@
-.. _donations:
+.. _Merchandise:
 
-Donations
-=========
+Merchandise
+===========
 
 If you want to give us a few bucks, we're happy to accept your `bitcoins <bitcoin:1R4daREx3gYpYJ87KqWRahzFHVfZMQVBi?message=donation>`__
 or `paypal wires <https://www.paypal.com/donate/?token=tkNRr_IOdRz3di3HYtbFHfDAIcJMZXEWg0NKvqeuCDvyACoMjweAOndvGfPWQ9Ned_mW7m&country.x=GB&locale.x=GB>`__.
