@@ -8,6 +8,11 @@ Articles
 2018
 ----
 
+- `Radare2 - Supporting a new architecture <https://koffiedrinker.be/notes/radare2_cpu_architecture/>`__
+- `Reversing a Self-Modifying Binary with radare2 <https://www.megabeets.net/reversing-a-self-modifying-binary-with-radare2/>__`
+- `Decrypting APT33’s Dropshot Malware with Radare2 and Cutter – Part 1 <https://www.megabeets.net/decrypting-dropshot-with-radare2-and-cutter-part-1/>__`
+- `Decrypting APT33’s Dropshot Malware with Radare2 and Cutter – Part 2 <https://www.megabeets.net/decrypting-dropshot-with-radare2-and-cutter-part-2/>__`
+- `English Report of "FHAPPI Campaign" : FreeHosting APT PowerSploit Poison Ivy <http://blog.0day.jp/p/english-report-of-fhappi-freehosting.html?m=1>`__
 - `Gynvael - Mission 22 - Solution <https://ctfs.ghost.io/gynvael-mission-22-solution/>`__
 - `ERNW Insinuator - Reverse Engineering with radare2 - intro <https://insinuator.net/2016/08/reverse-engineering-with-radare2-intro/>`__
 - `ERNW Insinuator - Reverse Engineering with radare2 - part2 <https://insinuator.net/2016/08/reverse-engineering-with-radare2-part-2/>`__
